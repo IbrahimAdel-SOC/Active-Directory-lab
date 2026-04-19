@@ -43,4 +43,5 @@ Hypervisor running all lab VMs
 ## Steps
 Ref 1 — Network Diagram
 Overview of the lab topology showing all four machines, their assigned IPs, and the log forwarding flow from Windows endpoints to Splunk SIEM through the internal switch.
+
 <img width="711" height="629" alt="Active Directory Diagram drawio" src="https://github.com/user-attachments/assets/681d3189-68c3-4e08-9998-9b9107dc61b8" />
