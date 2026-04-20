@@ -49,7 +49,12 @@ All four VMs configured inside Oracle VirtualBox: ADDC (Active Directory Domain 
 
 <img width="1442" height="783" alt="image" src="https://github.com/user-attachments/assets/51644a1e-5c4f-4a8a-ae06-e51a5a893d70" />
 
-
 ---
 
+**Ref 2b — Splunk Server Network Configuration**
+Static IP address configured on the Splunk Server using netplan (/etc/netplan/50-cloud-init.yaml), assigning 192.168.10.10/24 with gateway 192.168.10.1 and DNS 8.8.8.8.
+
+<img width="961" height="353" alt="image" src="https://github.com/user-attachments/assets/546e6bd8-2d16-44b9-923a-10e89317895c" />
+
+---
 
